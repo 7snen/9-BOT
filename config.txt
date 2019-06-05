@@ -1,6 +1,6 @@
-owner=413660639668731914
-prefix=1
-game=1play|#Riyderz
+owner=585693897473392640
+prefix=9
+game=9play
 stayinchannel=false
 songinstatus=false
-token=NTc4NTQzMjExOTMzNTk3Njk2.XN1IeQ.3Ywl4fcjFG1iK91fj0q8WFUbiUM
+token=NTg1NzI0MDI3OTE0NTUxMjk2.XPdqiQ.VpqdVUkJdBqIjnuM1H9GfC8DBm8
